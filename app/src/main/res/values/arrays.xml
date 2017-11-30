@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_items">
+        <item>ABOUT</item>
+        <item>CENTER</item>
+        <item>ACADEMICS</item>
+        <item>STUDENT PORTAL</item>
+        <item>STAFF PORTAL</item>
+        <item>QUA</item>
+        <item>ALUMNI</item>
+        <item>CONTACTS US</item>
+        <item>MAPS</item>
+
+    </string-array>
+    <integer-array name="home_items_images">
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/ic_menu_camera</item>
+
+    </integer-array>
+
+
+
+
+
+</resources>
